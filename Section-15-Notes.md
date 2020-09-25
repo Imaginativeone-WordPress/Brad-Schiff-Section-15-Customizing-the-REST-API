@@ -1,6 +1,11 @@
 - [ ] Section 15: Customizing the REST API 0/5 | 1hr 6min
   - [ ] 68. 15-1 REST API: Add New Custom Field 16min
   - [ ] 69. 15-2 REST API: Add New Custom Route (URL) 17min
+    - [ ] Four Main Reasons Why We Are Creating Our Own New REST API URL
+      - Custom Search Logic
+      - Respond with far less JSON data (load faster for visitors)
+      - Send only 1 getJSON request, instead of 6 in our JavaScript
+      - Perfect exercise for sharpening PHP skills
   - [ ] 70. 15-3 Create Your Own Raw JSON Data 14min
   - [ ] 71. 15-4 WP_Query and Keyword Searching 8min
   - [ ] 72. 15-5 Working With Multiple Post Types 11min
